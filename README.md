@@ -1,4 +1,4 @@
-# Power BI Sales & Profit Analysis Dashboard
+# Sales & Profit Analysis Dashboard
 
 This repository contains an interactive Power BI report and SQL scripts used to analyze revenue, sales quantity, and profit metrics across different cities, markets, products, and customers. The dashboard provides insights to support data-driven business decisions.
 
@@ -147,7 +147,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📷 Dashboard Screenshots
 
 ### Key Insights
-![Key Insights](./Key%20Insights.png)
+![Key Insights](https://github.com/Praveenkumar-p-gif/Sales-insight-Domain/blob/main/Sales%20Insights/Key%20Insights.png)
 
 ### Profit Analysis
 ![Profit Analysis](./Profit%20Analysis.png)
