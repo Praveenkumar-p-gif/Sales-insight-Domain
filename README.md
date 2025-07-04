@@ -150,7 +150,7 @@ This project is licensed under the [MIT License](LICENSE).
 ![Key Insights](https://github.com/Praveenkumar-p-gif/Sales-insight-Domain/blob/main/Sales%20Insights/Key%20Insights.png)
 
 ### Profit Analysis
-![Profit Analysis](./Profit%20Analysis.png)
+![Profit Analysis](https://github.com/Praveenkumar-p-gif/Sales-insight-Domain/blob/main/Sales%20Insights/Profit%20Analysis.png)
 
 ### Performance Insights
 ![Performance Insights](./Performance%20Insights.png)
